@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136540710018",
+    "project_id": "finalmp-aa3dd",
+    "storage_bucket": "finalmp-aa3dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136540710018:android:d2ceb90aeaf78753db409b",
+        "android_client_info": {
+          "package_name": "com.example.finalmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136540710018-gfk76g3cjaduv7ib4jbrp8pgcge0ilr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATs_qOxBLQfRif1W6gCRms25s0aMwAzXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136540710018-gfk76g3cjaduv7ib4jbrp8pgcge0ilr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

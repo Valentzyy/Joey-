@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    // Hide generated plugin registrant to avoid C/C++ IntelliSense includePath errors
+    "files.exclude": {
+        "**/windows/flutter/generated_plugin_registrant.cc": true
+    },
+    "search.exclude": {
+        "**/windows/flutter/generated_plugin_registrant.cc": true
+    }
+}
