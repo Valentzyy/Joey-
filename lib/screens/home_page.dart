@@ -20,7 +20,7 @@ class _HomePageState extends State<HomePage> {
   final List<CategoryItem> categories = const [
     CategoryItem(id: '1', name: 'School', emoji: '📚', colorValue: 0xFFC8956E),
     CategoryItem(id: '2', name: 'Home', emoji: '🏠', colorValue: 0xFFD4A574),
-    CategoryItem(id: '3', name: 'Work', emoji: '💼', colorValue: 0xFF8B6F470),
+    CategoryItem(id: '3', name: 'Work', emoji: '💼', colorValue: 0xFF8B6F47),
     CategoryItem(id: '4', name: 'Personal', emoji: '❤️', colorValue: 0xFFB8860B),
   ];
 
